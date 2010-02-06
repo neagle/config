@@ -12,7 +12,7 @@
 "
 " Nate Eagle's .vimrc file.
 " =========================
-" If your .vimrc file is going to suck, it might as well be because you
+" If my .vimrc file is going to suck, it might as well be because I 
 " assembled it.
 "
 " Maintainer:	Nate Eagle <nate@nateeagle.com>
