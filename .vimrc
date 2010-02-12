@@ -125,3 +125,10 @@ function! JavaScriptFold()
     endfunction
     setl foldtext=FoldText()
 endfunction 
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Plugins 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" Run JSLint on save
+autocmd BufWritePost *.js JSLint
